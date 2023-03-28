@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://Ravi:Ravi%401998@ravigupta.fy6ym6b.mongodb.net/?retryWrites=true&w=majority
+      database : Abc
